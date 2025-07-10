@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_capture"
+        android:title="Capture"
+        android:icon="@drawable/ic_capture" />
+    <item
+        android:id="@+id/nav_daily_logs"
+        android:title="Analytics"
+        android:icon="@drawable/ic_daily_logs" />
+    <item
+        android:id="@+id/nav_offsite_work"
+        android:title="Offsite Work"
+        android:icon="@drawable/ic_offsite_work" />
+    <item
+        android:id="@+id/nav_leave_approval"
+        android:title="Leave Request"
+        android:icon="@drawable/ic_calendar" />
+
+    <item
+        android:id="@+id/nav_support"
+        android:title="Contact Support"
+        android:icon="@drawable/ic_admin_panel" />
+<!--    <item-->
+<!--        android:id="@+id/nav_logout"-->
+<!--        android:icon="@drawable/ic_logout"-->
+<!--        android:title="Logout" />-->
+</menu>

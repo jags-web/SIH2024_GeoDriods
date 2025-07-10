@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">sih</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="leave_reasons">
+        <item>Sick</item>
+        <item>Casual</item>
+        <item>Privileged</item>
+    </string-array>
+    <string-array name="departments">
+        <item>Accounting</item>
+        <item>Human resources</item>
+        <item>Information technology</item>
+        <item>Marketing</item>
+        <item>Operations management</item>
+        <item>Research and development</item>
+    </string-array>
+</resources>
